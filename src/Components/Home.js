@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       
 <div className="jumbotron text-center">
-    <h1>HomePage</h1>
+    <h1>HomePage1</h1>
   <h1>Welcome to our first React APP</h1>
 </div>
   
