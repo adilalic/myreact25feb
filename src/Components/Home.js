@@ -1,7 +1,8 @@
 import React from 'react'
 
 
-import App from '../App.css'
+import '../App.css';
+
 
 import SubscribeForm from './SubscribeForm'
 
