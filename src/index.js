@@ -6,6 +6,7 @@ import Home from './Components/Home';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
+import Subscribers from './Components/Subscribers';
 
 
 
@@ -20,6 +21,7 @@ root.render(
   <Routes>
     <Route path="/" element={<Home />} />
     <Route path="/contact" element={<Contact />} />
+    <Route path="/subscribers" element={<Subscribers />} />
   </Routes>
 </BrowserRouter>
 <Footer />
