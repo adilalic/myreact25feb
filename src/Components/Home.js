@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import App from '../App.css'
-import Subscribers from './Subscribers'
+
 import SubscribeForm from './SubscribeForm'
 
 
